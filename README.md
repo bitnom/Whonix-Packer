@@ -17,3 +17,8 @@ also supports Docker).
 - [ ] Packer builder for KVM.
 - [ ] Packer builder for LXC.
 
+## Related Repos
+
+[Docker-Whonix](https://github.com/TensorTom/Docker-Whonix) - Trying to come up with a working Dockerfile.
+
+[Dockernymous](https://github.com/bcapptain/dockernymous) - Not the same goals (Not exactly Whonix) but still helpful.
