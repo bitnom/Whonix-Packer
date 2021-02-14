@@ -1,6 +1,6 @@
-# Packer Whonix
+# Whonix Packer
 
-We explore all the possible containerized, build-described, etc. deployment options for Whonix with the goal of making Whonix deployable in any project. The current big challenge is creating a working Whonix Dockerfile. Along the way, we're also defining some other deployments via Packer (Which
+We explore containerized, build-described, etc. deployment options for Whonix with the goal of making Whonix deployable in any project. The current big challenge is creating a working Whonix Dockerfile. Along the way, we're also defining some other deployments via Packer (Which
 also supports Docker).
 
 ## Milestones
