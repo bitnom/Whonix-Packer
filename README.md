@@ -5,7 +5,7 @@ also supports Docker).
 
 Packer also seems to be able to help convert between multiple types of images without necessarily using the underlying build def for each platform. See the [Docker example](https://www.packer.io/docs/builders/docker) & beyond to learn more.
 
-## Milestones
+## Goals / Milestones
 
 - [ ] Whonix-gateway-cli in Docker.
 - [ ] Whonix-workstation-cli in Docker.
