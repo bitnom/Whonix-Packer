@@ -1,0 +1,11 @@
+{
+    "builders": [
+        {
+            "type": "lxc",
+            "name": "lxc-buster",
+            "config_file": "/tmp/lxc/config",
+            "template_name": "debian",
+            "template_environment_vars": ["SUITE=buster"]
+        }
+    ]
+}
