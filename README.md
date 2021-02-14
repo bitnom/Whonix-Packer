@@ -7,7 +7,7 @@ also supports Docker).
 
 - [ ] Whonix-gateway-cli in Docker.
 - [ ] Whonix-workstation-cli in Docker.
-- [x] Whonix-gateway-cli in Vagrant.
+- [ ] Whonix-gateway-cli in Vagrant.
 - [ ] Whonix-workstation-cli in Vagrant.
 - [ ] Whonix-gateway-cli in KVM.
 - [ ] Whonix-workstation-cli in KVM.
